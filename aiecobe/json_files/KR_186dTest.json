@@ -1,0 +1,228 @@
+{
+    "sujet": "Informations g\u00e9n\u00e9rales du projet",
+    "children": [
+        {
+            "sujet": "Informations b\u00e2timent 1",
+            "children": [],
+            "attributes": []
+        },
+        {
+            "sujet": "B\u00e2timent",
+            "children": [],
+            "attributes": [
+                {
+                    "titre": "Superficie du b\u00e2timent",
+                    "detail": "Le b\u00e2timent fait 16 000 m\u00b2."
+                },
+                {
+                    "titre": "Types d'activit\u00e9",
+                    "detail": "Un restaurant au RDC et des bureaux dans les \u00e9tages."
+                },
+                {
+                    "titre": "D\u00e9senfumage du restaurant",
+                    "detail": "Le restaurant doit \u00eatre d\u00e9senfum\u00e9 car il d\u00e9passe une superficie de 300 m\u00b2, impliquant l'installation de bouches d'extraction en hauteur."
+                },
+                {
+                    "titre": "D\u00e9senfumage des bureaux",
+                    "detail": "Les bureaux n\u00e9cessitent des syst\u00e8mes de d\u00e9senfumage, surtout dans les circulations horizontales communes."
+                },
+                {
+                    "titre": "Syst\u00e8mes de d\u00e9senfumage",
+                    "detail": "Options de soufflage et extraction, ou mise en surpression dans les escaliers."
+                },
+                {
+                    "titre": "Commandes automatiques",
+                    "detail": "Syst\u00e8mes doivent \u00eatre int\u00e9gr\u00e9s avec des d\u00e9tecteurs de fum\u00e9e pour activation automatique."
+                },
+                {
+                    "titre": "Caract\u00e9ristiques des conduits",
+                    "detail": "Les conduits doivent r\u00e9pondre \u00e0 des normes de r\u00e9sistance au feu d'au moins deux heures."
+                }
+            ]
+        },
+        {
+            "sujet": "Parking sous le b\u00e2timent",
+            "children": [],
+            "attributes": [
+                {
+                    "titre": "Niveaux de parking",
+                    "detail": "Le parking est situ\u00e9 sur deux niveaux de sous-sol."
+                },
+                {
+                    "titre": "Nombre de places",
+                    "detail": "Il y a 400 places de parking."
+                },
+                {
+                    "titre": "Syst\u00e8me de sprinklage",
+                    "detail": "Il n'y a pas de syst\u00e8me de sprinklage install\u00e9."
+                },
+                {
+                    "titre": "D\u00e9senfumage",
+                    "detail": "Le d\u00e9senfumage doit \u00eatre m\u00e9canique avec un d\u00e9bit d'extraction minimum de 900 m\u00b3/h par v\u00e9hicule, \u00e0 d\u00e9faut \u00e0 600 m\u00b3/h par v\u00e9hicule sans sprinklage."
+                },
+                {
+                    "titre": "Compartimentage",
+                    "detail": "Des parois coupe-feu REI 60 sont n\u00e9cessaires pour compartimenter le parking."
+                },
+                {
+                    "titre": "\u00c9clairage de s\u00e9curit\u00e9",
+                    "detail": "Des dispositifs d'\u00e9clairage de s\u00e9curit\u00e9 doivent \u00eatre install\u00e9s."
+                },
+                {
+                    "titre": "Syst\u00e8mes d'alerte",
+                    "detail": "Des extincteurs portatifs et des dispositifs d'alarme sonore doivent \u00eatre pr\u00e9sents."
+                },
+                {
+                    "titre": "Ventilation",
+                    "detail": "Un syst\u00e8me de ventilation ad\u00e9quat est crucial pour maintenir la qualit\u00e9 de l'air."
+                },
+                {
+                    "titre": "D\u00e9tection d'incendie",
+                    "detail": "Un syst\u00e8me de d\u00e9tection incendie doit \u00eatre install\u00e9 compte tenu du nombre de places."
+                }
+            ]
+        },
+        {
+            "sujet": "Compartimentage parking sous-sol",
+            "children": [],
+            "attributes": [
+                {
+                    "titre": "Dimension des Compartiments",
+                    "detail": "Chaque niveau doit \u00eatre divis\u00e9 en compartiments d'une superficie maximale de 3 000 m\u00b2."
+                },
+                {
+                    "titre": "Mat\u00e9riaux et R\u00e9sistance au Feu",
+                    "detail": "Parois coupe-feu de degr\u00e9 1 heure (REI 60) et portes pare-flammes de degr\u00e9 1 heure (E 60)."
+                },
+                {
+                    "titre": "Dispositifs d'Obturation",
+                    "detail": "Ouvertures pour passage de v\u00e9hicules avec dispositifs d'obturation pare-flammes."
+                },
+                {
+                    "titre": "Acc\u00e8s et Circulation",
+                    "detail": "Recoupement requis tous les deux demi-niveaux, acc\u00e8s aux secours \u00e0 moins de 40 m\u00e8tres."
+                },
+                {
+                    "titre": "Ventilation",
+                    "detail": "Ventilation ad\u00e9quate avec syst\u00e8mes d'extraction et ouvrants pour \u00e9vacuation des fum\u00e9es."
+                }
+            ]
+        },
+        {
+            "sujet": "Projet b\u00e2timent",
+            "children": [
+                {
+                    "sujet": "B\u00e2timent",
+                    "children": [],
+                    "attributes": [
+                        {
+                            "titre": "Superficie",
+                            "detail": "16 000 m\u00b2."
+                        },
+                        {
+                            "titre": "Types d'activit\u00e9",
+                            "detail": "Restaurant au RDC et bureaux dans les \u00e9tages."
+                        }
+                    ]
+                },
+                {
+                    "sujet": "Parking sous le b\u00e2timent",
+                    "children": [],
+                    "attributes": [
+                        {
+                            "titre": "Niveaux de parking",
+                            "detail": "Deux niveaux de sous-sol."
+                        },
+                        {
+                            "titre": "Nombre de places",
+                            "detail": "400 places de parking."
+                        },
+                        {
+                            "titre": "Syst\u00e8me de sprinklage",
+                            "detail": "Aucun syst\u00e8me de sprinklage."
+                        }
+                    ]
+                },
+                {
+                    "sujet": "D\u00e9senfumage",
+                    "children": [],
+                    "attributes": [
+                        {
+                            "titre": "Restaurant",
+                            "detail": "D\u00e9senfumage m\u00e9canique avec extraction minimum de 900 m\u00b3/h par v\u00e9hicule."
+                        },
+                        {
+                            "titre": "Bureaux",
+                            "detail": "N\u00e9cessit\u00e9 de d\u00e9senfumage dans les circulations."
+                        },
+                        {
+                            "titre": "Parking",
+                            "detail": "D\u00e9senfumage m\u00e9canique requis."
+                        }
+                    ]
+                },
+                {
+                    "sujet": "S\u00e9curit\u00e9 incendie",
+                    "children": [
+                        {
+                            "sujet": "Compartimentage",
+                            "children": [],
+                            "attributes": [
+                                {
+                                    "titre": "Dimension des Compartiments",
+                                    "detail": "Superficie maximale de 3 000 m\u00b2 par compartiment."
+                                },
+                                {
+                                    "titre": "Mat\u00e9riaux et R\u00e9sistance au Feu",
+                                    "detail": "Parois coupe-feu REI 60 et portes E 60."
+                                },
+                                {
+                                    "titre": "Dispositifs d'Obturation",
+                                    "detail": "Dispositifs pare-flammes pour passages de v\u00e9hicules."
+                                },
+                                {
+                                    "titre": "Acc\u00e8s et Circulation",
+                                    "detail": "Recoupement tous les deux demi-niveaux et acc\u00e8s \u00e0 moins de 40 m\u00e8tres."
+                                },
+                                {
+                                    "titre": "Ventilation",
+                                    "detail": "Syst\u00e8mes d'extraction et ouvrants pour \u00e9vacuation des fum\u00e9es."
+                                }
+                            ]
+                        },
+                        {
+                            "sujet": "\u00c9quipements de s\u00e9curit\u00e9",
+                            "children": [],
+                            "attributes": [
+                                {
+                                    "titre": "\u00c9clairage de s\u00e9curit\u00e9",
+                                    "detail": "Dispositifs d'\u00e9clairage n\u00e9cessaires."
+                                },
+                                {
+                                    "titre": "Syst\u00e8mes d'alerte",
+                                    "detail": "Extincteurs portatifs et alarmes sonores."
+                                },
+                                {
+                                    "titre": "D\u00e9tection d'incendie",
+                                    "detail": "Syst\u00e8me de d\u00e9tection requis compte tenu du nombre de places."
+                                }
+                            ]
+                        }
+                    ],
+                    "attributes": []
+                },
+                {
+                    "sujet": "R\u00e9sum\u00e9 G\u00e9n\u00e9ral",
+                    "children": [],
+                    "attributes": [
+                        {
+                            "titre": "Emplacement du Projet",
+                            "detail": "B\u00e2timent avec parking sous-terrain."
+                        },
+                        {
+                            "titre": "But principal",
+                            "detail": "Assurer la s\u00e9curit\u00e9 des occupants et du b\u00e2timent."
+                        }
+                    ]
+                },
+                

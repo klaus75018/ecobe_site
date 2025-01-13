@@ -1,0 +1,31 @@
+{
+    "sujet": "Informations g\u00e9n\u00e9rales du projet",
+    "children": [
+        {
+            "sujet": "Informations b\u00e2timent 1",
+            "children": [],
+            "attributes": []
+        },
+        []
+    ],
+    "attributes": [
+        {
+            "titre": "project_name",
+            "detail": "1_\u00e8dTest"
+        },
+        {
+            "titre": "username",
+            "detail": "KR"
+        },
+        {
+            "titre": "thread_id",
+            "detail": "thread_quWr8TKoSBZROeIDZuEodCFO"
+        },
+        [
+            {
+                "titre": "Besoins en d\u00e9senfumage",
+                "detail": "Pour un b\u00e2timent de 16,000 m\u00b2 avec un restaurant au rez-de-chauss\u00e9e et des bureaux aux \u00e9tages, les besoins en d\u00e9senfumage incluent : 1. D\u00e9senfumage des circulations horizontales communes (superficie > 300 m\u00b2) ; 2. Installation d'un syst\u00e8me de d\u00e9senfumage m\u00e9canique (d\u00e9bit > 1 m\u00b3/s par bouche) ; 3. Ventilation des escaliers pour maintenir une surpression ; 4. D\u00e9tection de fum\u00e9e pour d\u00e9clencher le d\u00e9senfumage ; 5. Configuration des bouches d'extraction en hauteur et d'amen\u00e9e d'air pr\u00e8s du sol."
+            }
+        ]
+    ]
+}

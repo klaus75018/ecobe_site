@@ -1,0 +1,16 @@
+{
+    "project_name": "yyyyy",
+    "buildings_quantity": 2,
+    "buildings": [
+        {
+            "building_name": "building0",
+            "surface": "",
+            "type": ""
+        },
+        {
+            "building_name": "building1",
+            "surface": "",
+            "type": ""
+        }
+    ]
+}

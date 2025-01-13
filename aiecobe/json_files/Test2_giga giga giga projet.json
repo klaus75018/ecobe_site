@@ -1,0 +1,29 @@
+{
+    "sujet": "Informations g\u00e9n\u00e9rales du projet",
+    "children": [
+        {
+            "sujet": "Informations b\u00e2timent 1",
+            "children": [],
+            "attributes": []
+        },
+        {
+            "sujet": "Informations b\u00e2timent 2",
+            "children": [],
+            "attributes": []
+        }
+    ],
+    "attributes": [
+        {
+            "titre": "project_name",
+            "detail": "giga giga giga projet"
+        },
+        {
+            "titre": "username",
+            "detail": "Test2"
+        },
+        {
+            "titre": "thread_id",
+            "detail": "thread_URTE2rfj4x2GgVNK0ApueCai"
+        }
+    ]
+}

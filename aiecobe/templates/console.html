@@ -1,0 +1,24 @@
+{% extends 'events/navbar.html'%}
+{% block content %}
+
+    
+    <h1 style="text-align: center;">Les réponses à vos interrogations sur la sécurité incendie</h1>
+    {%if projects%}
+    <h2 style="text-align: center;">Vos projets existants</h2>
+    <ul>
+        
+            {%for project in projects%}
+            <li>{{project.name}}</li>
+            {%endfor%}
+        
+
+    </ul>
+    {%else%}
+    <h3>Lancez votre premier projet !</h3>
+    {%endif%}
+
+
+    
+    
+        
+{% endblock %}

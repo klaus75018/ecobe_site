@@ -1,0 +1,21 @@
+{
+    "project_name": "projetfou",
+    "buildings_quantity": 3,
+    "buildings": [
+        {
+            "building_name": "building0",
+            "surface": "",
+            "type": ""
+        },
+        {
+            "building_name": "building1",
+            "surface": "",
+            "type": ""
+        },
+        {
+            "building_name": "building2",
+            "surface": "",
+            "type": ""
+        }
+    ]
+}

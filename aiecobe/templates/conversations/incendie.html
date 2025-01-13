@@ -1,0 +1,29 @@
+{% extends 'events/navbar.html'%}
+{% block content %}
+    
+    <h1 style="text-align: center;">Les réponses à vos interrogations sur la sécurité incendie</h1>
+    
+    
+        {% if messages %}
+            <div class="card">
+                {% for message in messages %}
+                    {{message | linebreaks}}
+                {% endfor %}
+            </div>
+        {% endif %}
+    
+    <div class="container-sm">
+        <form method=POST>
+            {% csrf_token %}
+            <div class="mb-3">
+                <label for="user_message" class="form-label">Exprimez vous ici :</label>
+                <textarea class="form-control" name="user_message" rows="3"></textarea>
+              </div>
+        </br>
+            
+            <button type="submit">
+                Soumettre
+            </button>
+        </form>
+    </div>
+{% endblock %}

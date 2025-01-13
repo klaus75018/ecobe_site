@@ -1,0 +1,26 @@
+{
+    "project_name": "projTest",
+    "buildings_quantity": 4,
+    "buildings": [
+        {
+            "building_name": "building0",
+            "surface": "",
+            "type": ""
+        },
+        {
+            "building_name": "building1",
+            "surface": "",
+            "type": ""
+        },
+        {
+            "building_name": "building2",
+            "surface": "",
+            "type": ""
+        },
+        {
+            "building_name": "building3",
+            "surface": "",
+            "type": ""
+        }
+    ]
+}
